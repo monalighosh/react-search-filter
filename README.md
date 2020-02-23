@@ -2,4 +2,4 @@
 
 A simple search component which searches from a list of data using react.
 
-[Live demo]()
+[Live demo](https://monalighosh.github.io/react-search-filter/)

@@ -1,0 +1,7 @@
+.card__avatar {
+  border-radius: 50%;
+  border: 8px solid rgba(0, 0, 0, 0.04);
+  height: 80px;
+  overflow: hidden;
+  width: 80px;
+}
